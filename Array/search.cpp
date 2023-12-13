@@ -12,7 +12,7 @@ int main() {
 
     for (i = 0; i < n; i++) {
         if (b == arr[i]) {
-            a = true; // Set a to true if the number is found
+            a = true; 
             break;    // No need to continue searching once found
         }
     }
